@@ -10,7 +10,7 @@ class GuessingGame {
         this.current = Math.ceil((this.min + this.max) / 2);
         return this.current;
     }
-g
+
     lower() {
         this.max = this.current;
     }
