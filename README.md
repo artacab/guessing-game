@@ -6,7 +6,7 @@
 ### Description
 
 Your task is to implement `GuessingGame` class
-
+ 
 #### Methods:
 
 ##### `setRange(min, max)`
